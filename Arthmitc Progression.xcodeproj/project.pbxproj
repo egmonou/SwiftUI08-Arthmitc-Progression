@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C3151EDC2C8E0CCA00A8FF35 /* Arthmitc_ProgressionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3151EDB2C8E0CCA00A8FF35 /* Arthmitc_ProgressionApp.swift */; };
-		C3151EDE2C8E0CCA00A8FF35 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3151EDD2C8E0CCA00A8FF35 /* ContentView.swift */; };
+		C3151EDE2C8E0CCA00A8FF35 /* arthimenitcProgressionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3151EDD2C8E0CCA00A8FF35 /* arthimenitcProgressionView.swift */; };
 		C3151EE02C8E0CCE00A8FF35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3151EDF2C8E0CCE00A8FF35 /* Assets.xcassets */; };
 		C3151EE42C8E0CCE00A8FF35 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3151EE32C8E0CCE00A8FF35 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		C3151ED82C8E0CCA00A8FF35 /* Arthmitc Progression.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Arthmitc Progression.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3151EDB2C8E0CCA00A8FF35 /* Arthmitc_ProgressionApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arthmitc_ProgressionApp.swift; sourceTree = "<group>"; };
-		C3151EDD2C8E0CCA00A8FF35 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C3151EDD2C8E0CCA00A8FF35 /* arthimenitcProgressionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arthimenitcProgressionView.swift; sourceTree = "<group>"; };
 		C3151EDF2C8E0CCE00A8FF35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C3151EE12C8E0CCE00A8FF35 /* Arthmitc_Progression.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Arthmitc_Progression.entitlements; sourceTree = "<group>"; };
 		C3151EE32C8E0CCE00A8FF35 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -53,7 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				C3151EDB2C8E0CCA00A8FF35 /* Arthmitc_ProgressionApp.swift */,
-				C3151EDD2C8E0CCA00A8FF35 /* ContentView.swift */,
+				C3151EDD2C8E0CCA00A8FF35 /* arthimenitcProgressionView.swift */,
 				C3151EDF2C8E0CCE00A8FF35 /* Assets.xcassets */,
 				C3151EE12C8E0CCE00A8FF35 /* Arthmitc_Progression.entitlements */,
 				C3151EE22C8E0CCE00A8FF35 /* Preview Content */,
@@ -139,7 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C3151EDE2C8E0CCA00A8FF35 /* ContentView.swift in Sources */,
+				C3151EDE2C8E0CCA00A8FF35 /* arthimenitcProgressionView.swift in Sources */,
 				C3151EDC2C8E0CCA00A8FF35 /* Arthmitc_ProgressionApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

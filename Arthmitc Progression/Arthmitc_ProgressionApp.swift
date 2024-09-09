@@ -11,7 +11,7 @@ import SwiftUI
 struct Arthmitc_ProgressionApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            arthimenitcProgressionView(a: 5, d: 5, n: 5)
         }
     }
 }
